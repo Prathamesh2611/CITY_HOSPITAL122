@@ -17,7 +17,7 @@ a {
 }
 .carousel {
   margin-bottom: 4rem;
-  margin-bottom: 0px;
+  margin-top: 0px;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
